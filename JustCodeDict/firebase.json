@@ -1,0 +1,6 @@
+{
+  "react-native": {
+    "messaging_android_notification_color": "@color/hotpink",
+    "messaging_android_notification_channel_id": "JustCodeDict"
+  }
+}
