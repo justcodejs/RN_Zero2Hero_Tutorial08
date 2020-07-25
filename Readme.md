@@ -22,7 +22,7 @@ Hi! Welcome to JustCode React Native Zero to Hero Tutorial 8 Github page. To run
 6. Download the Firebase FCM private key and place it in the admin folder.
 7. Once you have the above conditions met, you may download the tutorial source code as a zip file or clone it using the command below.
 
-`git clone https://github.com/justcodejs/RN_Zero2Hero_Tutorial05.git`
+`git clone https://github.com/justcodejs/RN_Zero2Hero_Tutorial08.git`
 
 After you had downloaded/cloned the source code, you need to perform the tasks below:
 
